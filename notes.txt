@@ -1,0 +1,11 @@
+fortran data types
+-integer
+-real numbers
+-complex
+-character
+-logical
+
+kind=8 means
+
+8 bytes = 8*8 bits
+        = 64 bits   range=(2^63)-1

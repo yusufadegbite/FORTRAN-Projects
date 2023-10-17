@@ -1,0 +1,5 @@
+Ahmed.AB   200
+Baker.CD   500
+Essop.SA   700
+Jansen.GM  1000
+Smith.QG   1500
